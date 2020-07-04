@@ -49,6 +49,7 @@
 	ae_type = "Nanotrasen patented"
 	sprites = list(
 		"Basic" = "mommi",
+		"Basic Alt" = "mommiv2",
 		"Keeper" = "keeper",
 		"Prime" = "mommiprime",
 		"Prime Alt" = "mommiprime-alt",
